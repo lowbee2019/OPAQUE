@@ -2,7 +2,7 @@
 
 ## 0x00 描述过程：
 
-![pic](/Users/yunlong/Documents/pic.jpg)
+![pic](./pic.jpg)
 
 ## 0x01 初始化：
 
@@ -46,6 +46,6 @@ User：UK = H[($$g^y$$$$PubS^e$$$$)^{(d*PrivU+x)}$$]
 
 Server: SK = H[($$g^x$$$$PubU^d$$$$)^{(e*PrivS+y)}$$]
 
-![SK](/Users/yunlong/Documents/SK.png)
+![SK](./SK.png)
 
 经验证可知UK=SK,实现了密钥交换

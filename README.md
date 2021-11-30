@@ -1,4 +1,8 @@
-# 算法过程：
+# OPAQUE算法过程：
+
+> 一种基于Diffie-Hellman(DH)的非对称密钥交换协议
+> 
+> 参考：https://www.youtube.com/watch?v=4YntXt1Jobk
 
 ## 0x00 描述过程：
 
